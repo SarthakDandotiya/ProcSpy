@@ -1,11 +1,3 @@
-/*
- * 2010-2017 (C) Antonio Redondo
- * http://antonioredondo.com
- * http://github.com/AntonioRedondo/AnotherMonitor
- *
- * Code under the terms of the GNU General Public License v3.
- *
- */
 
 package com.example.shreysindher.procspy;
 
